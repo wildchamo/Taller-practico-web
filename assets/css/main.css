@@ -26,9 +26,18 @@
     
 }
 
+#banner video{
+width:100%;
+}
 
 #banner .inner{
+    position:absolute;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 300px;
 }
 #banner .inner h1{
 color:white;    
