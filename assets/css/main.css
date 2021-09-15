@@ -20,6 +20,26 @@
     text-decoration: none;
 }
 
+/* BANNER */
+
+#banner{
+    
+}
+
+
+#banner .inner{
+    text-align: center;
+}
+#banner .inner h1{
+color:white;    
+font-size: 46px;
+}
+
+#banner .inner p{
+color:gray;
+}    
+
+
 /* WRAPPER */
 .wrapper{
     background-image: url(../../images/bg.jpg);
