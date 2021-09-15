@@ -8,4 +8,14 @@ header {
     background-color:black;
     display: flex;  
     justify-content: space-between;
+    padding: 16px;
+}
+
+header .logo{
+    color:white;
+    text-decoration: none;
+}
+.header-menu{
+    color: gray;
+    text-decoration: none;
 }
