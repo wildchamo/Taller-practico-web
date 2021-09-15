@@ -19,3 +19,26 @@ header .logo{
     color: gray;
     text-decoration: none;
 }
+
+
+
+
+/* CTA */
+#cta{
+    background-image: url(../../images/cta01.jpg);
+    height:300px;
+    display: flex;
+    align-items: center;
+    padding: 0 80px;
+}
+.cta-inner{
+ color:white; 
+ text-align:center;
+}
+
+.cta-inner h2{
+    font-size: 30px;
+}
+.cta-inner p{
+  font-size: 14px;
+}
