@@ -190,7 +190,8 @@ font-size:24px;
 #footer {
     background-color: #111111;
     color: rgba(255, 255, 255, 0.5);
-    padding: 8rem 0 6rem 0 ; }
+    padding: 60px 0 30px 50px ;
+ }
 
 #footer input, #footer select, #footer textarea {
 color: #ffffff; }
@@ -213,3 +214,17 @@ padding-right: 4rem; }
 
 #footer .content section:last-child {
 padding-left: 4rem; }
+
+#footer a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
+
+#footer ul.alt li {
+    border-top-color: rgba(255, 255, 255, 0.25);
+}
+
+ul.alt li {
+    border-bottom: solid 1px;
+    padding: 12px 0;
+}
