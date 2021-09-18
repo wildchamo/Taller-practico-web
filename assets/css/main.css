@@ -22,9 +22,6 @@
 
 /* BANNER */
 
-#banner{
-    
-}
 
 #banner video{
 width:100%;
@@ -53,10 +50,15 @@ color:gray;
 .wrapper{
     background-image: url(../../images/bg.jpg);
     background-size: cover;
-
+    padding-top: 70px;
 }
 
 /* Highlights */
+
+.inner .special{
+    text-align: center;
+    padding-bottom: 20px;
+}
 
 .highlights{    
     display: flex;
