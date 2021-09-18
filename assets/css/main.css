@@ -112,3 +112,14 @@ color: #ffffff; }
 
 #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
 color: #ffffff; } 
+
+#footer .content {
+    display: flex; }
+
+#footer .content section {
+width: 25%; }
+#footer .content section:first-child {
+width: 50%;
+padding-right: 4rem; }
+#footer .content section:last-child {
+padding-left: 4rem; }
