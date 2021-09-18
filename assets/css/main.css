@@ -97,3 +97,18 @@ color:gray;
 .cta-inner p{
   font-size: 14px;
 }
+
+/* Footer */
+#footer {
+    background-color: #111111;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 8rem 0 6rem 0 ; }
+
+#footer input, #footer select, #footer textarea {
+color: #ffffff; }
+
+#footer strong, #footer b {
+color: #ffffff; }
+
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+color: #ffffff; } 
