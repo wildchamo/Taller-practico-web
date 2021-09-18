@@ -5,7 +5,15 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family:raleway;    
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    line-height: 1.5;
+    text-transform: uppercase;
+    margin: 0 0 1.5rem 0;
+}
 #header {
     background-color:black;
     display: flex;  
@@ -41,19 +49,19 @@ width:100%;
 }
 #banner .inner h1{
 color:white;    
-font-size: 46px;
+font-size: 64px;
 }
 
 #banner .inner p{
 color:gray;
+font-size:24px;
 }    
 
 
 /* WRAPPER */
 .wrapper{
-    background-image: url(../../images/bg.jpg);
-    background-size: cover;
-
+    padding-top:64px;
+    padding-bottom:32px;
 }
 
 /* Highlights */
@@ -61,6 +69,15 @@ color:gray;
 .inner .special{
     text-align: center;
     padding-bottom: 20px;
+}
+.inner .special h2{
+    font-size: 32px;
+}
+.inner .special p{
+    font-size: 16px;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .highlights{    
