@@ -1,3 +1,5 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
 *{
     box-sizing: border-box;
     margin: 0;
@@ -118,8 +120,10 @@ color: #ffffff; }
 
 #footer .content section {
 width: 25%; }
+
 #footer .content section:first-child {
 width: 50%;
 padding-right: 4rem; }
+
 #footer .content section:last-child {
 padding-left: 4rem; }
